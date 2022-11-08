@@ -1,0 +1,111 @@
+C:\Users\david\Documents\Visual Studio 2019\Practicas\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.config
+C:\Users\david\Documents\Visual Studio 2019\Practicas\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe
+C:\Users\david\Documents\Visual Studio 2019\Practicas\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+C:\Users\david\Documents\Visual Studio 2019\Practicas\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.AssemblyReference.cache
+C:\Users\david\Documents\Visual Studio 2019\Practicas\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.CrearAutomata.resources
+C:\Users\david\Documents\Visual Studio 2019\Practicas\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Form1.resources
+C:\Users\david\Documents\Visual Studio 2019\Practicas\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Properties.Resources.resources
+C:\Users\david\Documents\Visual Studio 2019\Practicas\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.GenerateResource.cache
+C:\Users\david\Documents\Visual Studio 2019\Practicas\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\Visual Studio 2019\Practicas\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
+C:\Users\david\Documents\Visual Studio 2019\Practicas\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
+C:\Users\david\Documents\Visual Studio 2019\Practicas\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Union.resources
+C:\Users\Diana Paola\Documents\C#\Proyecto compilador\Compiladores\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.config
+C:\Users\Diana Paola\Documents\C#\Proyecto compilador\Compiladores\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe
+C:\Users\Diana Paola\Documents\C#\Proyecto compilador\Compiladores\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+C:\Users\Diana Paola\Documents\C#\Proyecto compilador\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.AssemblyReference.cache
+C:\Users\Diana Paola\Documents\C#\Proyecto compilador\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.CerraduraPos.resources
+C:\Users\Diana Paola\Documents\C#\Proyecto compilador\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Concatenacion.resources
+C:\Users\Diana Paola\Documents\C#\Proyecto compilador\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.CrearAutomata.resources
+C:\Users\Diana Paola\Documents\C#\Proyecto compilador\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.CrerraduraKleen.resources
+C:\Users\Diana Paola\Documents\C#\Proyecto compilador\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Form1.resources
+C:\Users\Diana Paola\Documents\C#\Proyecto compilador\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Opcional.resources
+C:\Users\Diana Paola\Documents\C#\Proyecto compilador\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Properties.Resources.resources
+C:\Users\Diana Paola\Documents\C#\Proyecto compilador\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Union.resources
+C:\Users\Diana Paola\Documents\C#\Proyecto compilador\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.GenerateResource.cache
+C:\Users\Diana Paola\Documents\C#\Proyecto compilador\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.CoreCompileInputs.cache
+C:\Users\Diana Paola\Documents\C#\Proyecto compilador\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
+C:\Users\Diana Paola\Documents\C#\Proyecto compilador\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
+C:\Users\david\Documents\Visual Studio 2019\Practicas\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.CerraduraPos.resources
+C:\Users\david\Documents\Visual Studio 2019\Practicas\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Concatenacion.resources
+C:\Users\david\Documents\Visual Studio 2019\Practicas\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.CrerraduraKleen.resources
+C:\Users\david\Documents\Visual Studio 2019\Practicas\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Opcional.resources
+C:\Users\david\Documents\Visual Studio 2019\Practicas\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.UnirAFNs.resources
+C:\Users\david\Documents\Visual Studio 2019\Practicas\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.ConversorAFNAFD.resources
+C:\Users\david\Documents\Visual Studio 2019\Practicas\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.GuardarAFD.resources
+C:\Users\david\Documents\GitHub\Compiladores\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.config
+C:\Users\david\Documents\GitHub\Compiladores\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe
+C:\Users\david\Documents\GitHub\Compiladores\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+C:\Users\david\Documents\GitHub\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.AssemblyReference.cache
+C:\Users\david\Documents\GitHub\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.CerraduraPos.resources
+C:\Users\david\Documents\GitHub\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Concatenacion.resources
+C:\Users\david\Documents\GitHub\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.ConversorAFNAFD.resources
+C:\Users\david\Documents\GitHub\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.CrearAutomata.resources
+C:\Users\david\Documents\GitHub\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.CrerraduraKleen.resources
+C:\Users\david\Documents\GitHub\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Form1.resources
+C:\Users\david\Documents\GitHub\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.GuardarAFD.resources
+C:\Users\david\Documents\GitHub\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Opcional.resources
+C:\Users\david\Documents\GitHub\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Properties.Resources.resources
+C:\Users\david\Documents\GitHub\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Union.resources
+C:\Users\david\Documents\GitHub\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.UnirAFNs.resources
+C:\Users\david\Documents\GitHub\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.GenerateResource.cache
+C:\Users\david\Documents\GitHub\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\GitHub\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
+C:\Users\david\Documents\GitHub\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
+C:\Users\david\Documents\GitHub\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pAnalizadorLexico.resources
+C:\Users\david\Documents\Visual Studio 2019\Practicas\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pAnalizadorLexico.resources
+C:\Users\Diana Paola\Documents\C#\Proyecto compilador\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.ConversorAFNAFD.resources
+C:\Users\Diana Paola\Documents\C#\Proyecto compilador\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pAnalizadorLexico.resources
+C:\Users\Diana Paola\Documents\C#\Proyecto compilador\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.GuardarAFD.resources
+C:\Users\Diana Paola\Documents\C#\Proyecto compilador\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.UnirAFNs.resources
+C:\Users\david\Documents\GitHub\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.fmrEvaluadorExpresiones.resources
+C:\Users\david\Documents\GitHub\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.fmrERaAFN.resources
+C:\Users\Diana Paola\Documents\C#\Proyecto compilador\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.fmrEvaluadorExpresiones.resources
+C:\Users\Diana Paola\Documents\C#\Proyecto compilador\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.fmrERaAFN.resources
+C:\Users\david\Desktop\Semestre 7\Compiladores\proyecto\Compiladores\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.config
+C:\Users\david\Desktop\Semestre 7\Compiladores\proyecto\Compiladores\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe
+C:\Users\david\Desktop\Semestre 7\Compiladores\proyecto\Compiladores\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+C:\Users\david\Desktop\Semestre 7\Compiladores\proyecto\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\Semestre 7\Compiladores\proyecto\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.CerraduraPos.resources
+C:\Users\david\Desktop\Semestre 7\Compiladores\proyecto\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Concatenacion.resources
+C:\Users\david\Desktop\Semestre 7\Compiladores\proyecto\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.ConversorAFNAFD.resources
+C:\Users\david\Desktop\Semestre 7\Compiladores\proyecto\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.CrearAutomata.resources
+C:\Users\david\Desktop\Semestre 7\Compiladores\proyecto\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.CrerraduraKleen.resources
+C:\Users\david\Desktop\Semestre 7\Compiladores\proyecto\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.fmrEvaluadorExpresiones.resources
+C:\Users\david\Desktop\Semestre 7\Compiladores\proyecto\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Form1.resources
+C:\Users\david\Desktop\Semestre 7\Compiladores\proyecto\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.fmrERaAFN.resources
+C:\Users\david\Desktop\Semestre 7\Compiladores\proyecto\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pAnalizadorLexico.resources
+C:\Users\david\Desktop\Semestre 7\Compiladores\proyecto\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.GuardarAFD.resources
+C:\Users\david\Desktop\Semestre 7\Compiladores\proyecto\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Opcional.resources
+C:\Users\david\Desktop\Semestre 7\Compiladores\proyecto\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Properties.Resources.resources
+C:\Users\david\Desktop\Semestre 7\Compiladores\proyecto\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Union.resources
+C:\Users\david\Desktop\Semestre 7\Compiladores\proyecto\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.UnirAFNs.resources
+C:\Users\david\Desktop\Semestre 7\Compiladores\proyecto\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.GenerateResource.cache
+C:\Users\david\Desktop\Semestre 7\Compiladores\proyecto\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Semestre 7\Compiladores\proyecto\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
+C:\Users\david\Desktop\Semestre 7\Compiladores\proyecto\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
+C:\Users\david\Documents\GitHub\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.fmrDescRecGram_Gram.resources
+C:\Users\david\Desktop\Semestre 7\Compiladores\proyecto\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.fmrDescRecGram_Gram.resources
+C:\Users\david\Documents\GitHub\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.AnalizarLL1.resources
+C:\Users\david\Desktop\Semestre 7\Compiladores\proyecto\Compiladores\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.AnalizarLL1.resources
+C:\Users\SCP\OneDrive\Escritorio\Compiladores-master\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.config
+C:\Users\SCP\OneDrive\Escritorio\Compiladores-master\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe
+C:\Users\SCP\OneDrive\Escritorio\Compiladores-master\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+C:\Users\SCP\OneDrive\Escritorio\Compiladores-master\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.AssemblyReference.cache
+C:\Users\SCP\OneDrive\Escritorio\Compiladores-master\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.CerraduraPos.resources
+C:\Users\SCP\OneDrive\Escritorio\Compiladores-master\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Concatenacion.resources
+C:\Users\SCP\OneDrive\Escritorio\Compiladores-master\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.ConversorAFNAFD.resources
+C:\Users\SCP\OneDrive\Escritorio\Compiladores-master\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.CrearAutomata.resources
+C:\Users\SCP\OneDrive\Escritorio\Compiladores-master\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.CrerraduraKleen.resources
+C:\Users\SCP\OneDrive\Escritorio\Compiladores-master\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.fmrEvaluadorExpresiones.resources
+C:\Users\SCP\OneDrive\Escritorio\Compiladores-master\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Form1.resources
+C:\Users\SCP\OneDrive\Escritorio\Compiladores-master\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.fmrERaAFN.resources
+C:\Users\SCP\OneDrive\Escritorio\Compiladores-master\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pAnalizadorLexico.resources
+C:\Users\SCP\OneDrive\Escritorio\Compiladores-master\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.GuardarAFD.resources
+C:\Users\SCP\OneDrive\Escritorio\Compiladores-master\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Opcional.resources
+C:\Users\SCP\OneDrive\Escritorio\Compiladores-master\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Properties.Resources.resources
+C:\Users\SCP\OneDrive\Escritorio\Compiladores-master\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Union.resources
+C:\Users\SCP\OneDrive\Escritorio\Compiladores-master\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.GenerateResource.cache
+C:\Users\SCP\OneDrive\Escritorio\Compiladores-master\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.CoreCompileInputs.cache
+C:\Users\SCP\OneDrive\Escritorio\Compiladores-master\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
+C:\Users\SCP\OneDrive\Escritorio\Compiladores-master\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
