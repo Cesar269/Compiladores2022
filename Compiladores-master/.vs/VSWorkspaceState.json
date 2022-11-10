@@ -3,8 +3,7 @@
     "",
     "\\AnalizadorLexico",
     "\\AnalizadorLexico\\AnalizadorLexico",
-    "\\AnalizadorLexico\\AnalizadorLexico\\obj",
-    "\\AnalizadorLexico\\AnalizadorLexico\\obj\\Debug"
+    "\\AnalizadorLexico\\AnalizadorLexico\\obj"
   ],
   "SelectedNode": "\\AnalizadorLexico\\AnalizadorLexico\\ER_AFN.cs",
   "PreviewInSolutionExplorer": false

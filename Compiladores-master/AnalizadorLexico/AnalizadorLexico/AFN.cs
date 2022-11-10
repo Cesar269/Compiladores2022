@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace AnalizadorLexico
 {
+    /*-*/
     public class ConjIj
     {
         public int j;
@@ -24,7 +25,9 @@ namespace AnalizadorLexico
             }
         }
     }
-    class AFN
+
+
+    public class AFN
     {
         public static HashSet<AFN> ConjuntoAFNs = new HashSet<AFN>();
         Estado estadoInit;
@@ -64,6 +67,7 @@ namespace AnalizadorLexico
 
         public AFN crearAFNBasico(char s, char s2)
         {
+            /*falta la validacion para s <= s2*/
             Transicion t;
             estadoInit = new Estado();
             Estado acept = new Estado();
@@ -91,12 +95,13 @@ namespace AnalizadorLexico
             Estado e1 = new Estado();
             Estado e2 = new Estado();
 
+            /*e1 tiene dos transiciones epsilon, uno al estado inicial del AFN this y otra al inicial del e2*/
             Transicion t1 = new Transicion(SimbolosEspeciales.Epsilon, this.estadoInit);
             Transicion t2 = new Transicion(SimbolosEspeciales.Epsilon, f2.estadoInit);
 
             e1.Trans.Add(t2);
             e1.Trans.Add(t1);
-
+           
             foreach(Estado e in f2.EstadosAcept)
             {
                 e.Trans.Add(new Transicion(SimbolosEspeciales.Epsilon, e2));
@@ -107,6 +112,7 @@ namespace AnalizadorLexico
                 e.Trans.Add(new Transicion(SimbolosEspeciales.Epsilon, e2));
                 e.EstadoAcept = false;
             }
+            /*actualiza informacion del automata this y e2 se vuelve de aceptacion*/
             this.EstadosAcept.Clear();
             f2.EstadosAcept.Clear();
             this.estadoInit = e1;

@@ -26,11 +26,13 @@ namespace AnalizadorLexico
             edo = e;
         }
 
+        /*Permite inicializar una transicion aunque no haya estados o simbolos*/
         public Transicion()
         {
             edo = null;
         }
 
+        /*Seccion de settransicion similares al constructor*/
         public void SetTransicion(char simb, Estado e)
         {
             SInf = simb;
@@ -45,9 +47,13 @@ namespace AnalizadorLexico
             edo = e;
         }
 
+        /*GET and SET para los simbolos superiores e inferiores*/
         public char SimInf { get => SInf; set => SInf = value; }
         public char SimSup { get => Sdup; set => Sdup = value; }
 
+        /*Pregunta si existe el caracter en el rango de la transicion, 
+         * si existe retorna el estado hacía el que va, 
+         * sino retorna null*/
         public Estado GetEdoTrans(char s)
         {
             if(SInf <= s && s <= Sdup)
