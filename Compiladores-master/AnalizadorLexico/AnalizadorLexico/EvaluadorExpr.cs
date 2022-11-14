@@ -34,16 +34,18 @@ namespace AnalizadorLexico
             L.SetSigma(sigma);
         }
 
+        /*Hace llamada al simbolo inicial de la gramatica*/
         public bool IniEval()
         {
             int Token;
             float v;
-            string Postfijo = "";
-            v = (float)0;
+            string Postfijo = "";//innecesaria
+            v = (float)0;//innecesaria
             
             if( E(ref v,ref Postfijo) )
             {
                 Token = L.yylex();
+                /*verificar si es el fin de cadena*/
                 if(Token == 0)
                 {
                     this.result = v;
@@ -54,6 +56,7 @@ namespace AnalizadorLexico
             return false;
         }
 
+        /*Simbolos no terminales*/
         bool E(ref float v, ref string Post)
         {
             if (T(ref v, ref Post))
@@ -62,6 +65,7 @@ namespace AnalizadorLexico
             return false;
         }
 
+        /*Simbolos no terminales E prima*/
         bool Ep(ref float v, ref string Post)
         {
             int Token;
@@ -71,8 +75,10 @@ namespace AnalizadorLexico
             if(Token == 10 || Token == 20) // + o -
             {
                 if( T(ref v2, ref Post2))
-                {
+                {   
+                    //Aplicar la operacion
                     v = v + (Token == 10 ? v2 : -v2);
+                    //construccion del postfijo
                     Post = Post + " " + Post2 + (Token == 10 ? "+" : "-");
                     if (Ep(ref v, ref Post))
                         return true;
@@ -99,7 +105,9 @@ namespace AnalizadorLexico
             {
                 if(F(ref v2, ref Post2))
                 {
+                    //aplicamos la operacion
                     v = v * (Token == 30 ? v2 : 1 / v2);
+                    //onstruccion del postfijo
                     Post = Post + " " + Post2 + " " + (Token == 30 ? "*" : "/");
                     if (Tp(ref v, ref Post))
                         return true;

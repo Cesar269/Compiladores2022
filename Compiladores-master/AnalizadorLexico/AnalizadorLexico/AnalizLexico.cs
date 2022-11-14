@@ -77,7 +77,8 @@ namespace AnalizadorLexico
             Pila.Clear();
             AutomataFD = AutFD;
         }
-
+        /*guarda la informacion de las variables para saber el estado del analizador en x momento
+         Lo que retorna son puras variables o informacion*/
         public ClassEstadoAnalizLexico GetEdoAnalizLexico()
         {
             ClassEstadoAnalizLexico EdoActualAnaliz = new ClassEstadoAnalizLexico();
@@ -94,6 +95,7 @@ namespace AnalizadorLexico
             return EdoActualAnaliz;
         }
 
+        /*para darle un estado en especifico al estado del analizador lexico*/
         public bool SetEdoAnalizLexico(ClassEstadoAnalizLexico e)
         {
             CaracterActual = e.CaracterActual;
@@ -108,6 +110,7 @@ namespace AnalizadorLexico
             return true;
         }
 
+        /*se puede cambiar la cadena sigma a ser analizada*/
         public void SetSigma(string sigma)
         {
             CadenaSigma = sigma;
@@ -119,14 +122,18 @@ namespace AnalizadorLexico
             Pila.Clear();
         }
 
+        /*sellamara cada vez que se requiera un token. El metodo regresa el valor entero 
+         que corresponde al token que se esta obteniendo*/
         public int yylex()
         {
             while (true)
             {
+                /*se guarda en la pila para poder regresar si se requiere*/
                 Pila.Push(IndiceCaracterActual);
                 if (IndiceCaracterActual >= CadenaSigma.Length)
                 {
                     Lexema = "";
+                    /*si ya terminó regreso 0*/
                     return SimbolosEspeciales.FIN;
                 }
                 IniLexema = IndiceCaracterActual;
@@ -140,7 +147,8 @@ namespace AnalizadorLexico
                     EdoTransicion = AutomataFD.TablaAFD[EdoActual, CaracterActual];
                     if (EdoTransicion != -1)
                     {
-                        if (AutomataFD.TablaAFD[EdoTransicion, 256] != -1)
+                        if (AutomataFD.TablaAFD[EdoTransicion, 256] != -1)//va a la ultima columna para ver si el token es -1
+                            //si es diferente de -1 es el fin de lexema
                         {
                             PasoPorEdoAcept = true;
                             token = AutomataFD.TablaAFD[EdoTransicion, 256];
@@ -151,16 +159,16 @@ namespace AnalizadorLexico
                         continue;
                     }
                     break;
-                }
+                }//no hay transicion del estado actual con el caracter actual
 
                 if (!PasoPorEdoAcept)
                 {
                     IndiceCaracterActual = IniLexema + 1;
                     Lexema = CadenaSigma.Substring(IniLexema, 1);
-                    token = 20000;
+                    token = 20000;//SIMBOLOSESPECIALES.ERROR
                     return token;
                 }
-
+                //No hay transicion con el caracter actual, pero ya se había pasado por edo de aceptación
                 Lexema = CadenaSigma.Substring(IniLexema, FinLexema - IniLexema + 1);
                 IndiceCaracterActual = FinLexema + 1;
 
@@ -170,7 +178,7 @@ namespace AnalizadorLexico
                     return token;
             }
         }
-
+        /*regresa un lexeme identificado por el yylex y la cadena de entrada*/
         public bool UndoToken()
         {
             if (Pila.Count == 0)
